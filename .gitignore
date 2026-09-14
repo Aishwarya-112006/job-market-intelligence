@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.parquet
+*.db
+*.duckdb
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
