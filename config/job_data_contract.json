@@ -1,0 +1,38 @@
+{
+    "dataset": "job_market_data",
+    "table": "jobs",
+    "columns": {
+        "slug": {
+            "type": "string",
+            "required": true
+        },
+        "company_name": {
+            "type": "string",
+            "required": true
+        },
+        "title": {
+            "type": "string",
+            "required": true
+        },
+        "description": {
+            "type": "string",
+            "required": false
+        },
+        "remote": {
+            "type": "boolean",
+            "required": false
+        },
+        "url": {
+            "type": "string",
+            "required": false
+        },
+        "location": {
+            "type": "string",
+            "required": false
+        },
+        "created_at": {
+            "type": "integer",
+            "required": false
+        }
+    }
+}
