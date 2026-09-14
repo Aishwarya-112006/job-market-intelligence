@@ -1,0 +1,88 @@
+{
+    "programming_languages": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "C",
+        "C++",
+        "C#",
+        
+        "Golang",
+        "Rust",
+        "PHP",
+        "Ruby",
+        "Kotlin",
+        "Swift"
+    ],
+    "data": [
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "DuckDB",
+        "Pandas",
+        "NumPy",
+        "Apache Spark",
+        "PySpark",
+        "Hadoop",
+        "Kafka"
+    ],
+    "web": [
+        "HTML",
+        "CSS",
+        "React",
+        "React.js",
+        "Angular",
+        "Vue.js",
+        "Node.js",
+        "Express.js",
+        "Django",
+        "Flask",
+        "FastAPI"
+    ],
+    "cloud": [
+        "AWS",
+        "Amazon Web Services",
+        "Microsoft Azure",
+        "Azure",
+        "Google Cloud",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+    ],
+    "machine_learning": [
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "NLP",
+        "Computer Vision",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "OpenCV"
+    ],
+    "data_engineering": [
+        "Data Engineering",
+        "ETL",
+        "ELT",
+        "Airflow",
+        "Apache Airflow",
+        "dbt",
+        "Data Warehouse",
+        "Data Lake",
+        "Data Pipeline",
+        "Data Modeling"
+    ],
+    "tools": [
+        "Git",
+        "GitHub",
+        "Linux",
+        "REST API",
+        "GraphQL",
+        "Postman"
+    ]
+}
