@@ -23,3 +23,18 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependencies
+node_modules/
